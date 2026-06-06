@@ -1,4 +1,4 @@
-# Hi, I'm Kartikeya 👋
+# Hi, I'm Kartikey 👋
 
 ## About Me
 - 💻 Currently focusing on **Data Structures and Algorithms (DSA) in C++**
